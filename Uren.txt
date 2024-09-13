@@ -1,3 +1,4 @@
-school:
-
+school (lesuur):
+6 uur - PvA en starten
+5 uur - onderzoek
 thuis:
