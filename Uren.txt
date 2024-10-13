@@ -1,6 +1,6 @@
 school (lesuur):
 6 uur - PvA en starten
 12 uur - onderzoek
-4 uur - experimenteren
+8 uur - experimenteren
 thuis:
 3 uur - vms testen
