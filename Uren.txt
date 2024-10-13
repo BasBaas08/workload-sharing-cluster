@@ -3,4 +3,4 @@ school (lesuur):
 12 uur - onderzoek
 8 uur - experimenteren
 thuis:
-3 uur - vms testen
+5 uur - vms testen
