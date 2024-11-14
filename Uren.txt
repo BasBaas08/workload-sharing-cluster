@@ -1,6 +1,2 @@
-school (lesuur):
-6 uur - PvA en starten
-15 uur - onderzoek
-21 uur - experimenteren
-thuis:
-8 uur - vms testen
+excel loopt "3" uur achter, uren van:
+- herorganiseren github (en excel
