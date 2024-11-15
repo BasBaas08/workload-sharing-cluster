@@ -1,2 +1,3 @@
-excel loopt "3" uur achter, uren van:
-- herorganiseren github (en excel
+excel loopt "6" uur achter, uren van:
+- herorganiseren github (en excel ) 3 uur
+-instellen nas en onverzoek naar nas setup 3 uur
