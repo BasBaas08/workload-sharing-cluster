@@ -1,3 +1,4 @@
-excel loopt "8" uur achter, uren van:
-- herorganiseren github (en excel ) 3 uur
--instellen nas en onverzoek naar nas setup 5 uur
+excel loopt "10" uur achter, uren van:
+- herorganiseren github (en excel )_3 uur
+-instellen nas en onverzoek naar nas setup_5 uur
+-PVA afronden_2 uur
