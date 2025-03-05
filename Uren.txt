@@ -1,4 +1,4 @@
-excel loopt "37" uur achter, uren van:
+excel loopt "50" uur achter, uren van:
 - herorganiseren github (en excel )_3 uur
 -instellen nas en onderzoek naar nas setup_7 uur
 -PVA afronden_2 uur
@@ -6,3 +6,4 @@ excel loopt "37" uur achter, uren van:
 -instellen master_2 uur
 -testen setup 1 _ 5 uur
 -NAS debug (niet trots op)_ 15 uur
+
